@@ -38,8 +38,6 @@ Together they create an end-to-end pipeline: **text → cloned voice audio → r
 
 https://github.com/user-attachments/assets/c73e22da-58f8-4560-b8e7-309e6f89d95c
 
-https://github.com/user-attachments/assets/98123e77-9064-454d-ae38-80d4f6923fdc
-
 
 
 <!-- ADD YOUR GENERATED VIDEO EXAMPLE HERE -->
